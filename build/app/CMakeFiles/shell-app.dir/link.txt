@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/shell-app.dir/AnalogSensor.cpp.o CMakeFiles/shell-app.dir/main.cpp.o  -o shell-app 
